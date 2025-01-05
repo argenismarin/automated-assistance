@@ -189,3 +189,20 @@ No dudes en enviar problemas o solicitudes de extracción si deseas contribuir a
 ---
 
 ¡Feliz Automatización!
+
+### Dedicación a Jenifer 💖
+
+```
+    *****     *****
+  **     ** **     **
+ *         *         *
+ *                   *
+  *                 *
+   *               *
+     *           *
+       *       *
+         *   *
+           *
+
+❤️ Con amor para Jenifer ❤️
+```
