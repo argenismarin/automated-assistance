@@ -43,10 +43,13 @@ for i in range(len(numero)):
         # Seleccionar la opción dependiendo del tipo
         if tipo[i] == 'Tutoría con cita':
             driver.find_element(By.XPATH, value='//*[@id="i23"]').click()
+            sleep(5)
         else:
             driver.find_element(By.XPATH, value='//*[@id="i26"]').click()
+            sleep(5)
         # Seleccionar "Asiste con frecuencia a las tutorías"
         driver.find_element(By.XPATH, value='//*[@id="i37"]').click()
+        sleep(5)
         # Hacer clic en "Enviar"
         driver.find_element(By.XPATH,
             value='/html/body/div[1]/div[2]/form/div[2]/div/div[3]/div[1]/div[1]/div/span').click()
